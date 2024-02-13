@@ -9,12 +9,12 @@ window.addEventListener("scroll", (event) => {
     // Check if the scroll position is greater than 20 pixels
     if (scroll > 20) {
       header.classList.add('sticky-header');
-     logo.src = '../../assets/logo-2.png';
+     logo.src = './assets/logo-2.png';
      logo.classList.add('sticky-logo')
     } else {
         
       header.classList.remove("sticky-header");
-      logo.src = '../../assets/header-logo.png';
+      logo.src = './assets/header-logo.png';
       logo.classList.remove('sticky-logo')
 
     }
