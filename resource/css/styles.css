@@ -488,8 +488,21 @@ footer .footer-content p{
   }
   }
   
-  
 
-  
+  @media screen and (max-height: 576px) {
+    .page-history{
+      height: 35rem;
+    }
+    .page-banner, .page-tab .tab-content-container {
+      height: 50rem;
+  }
+  }
 
- 
+  @media screen and (max-height: 376px) {
+    .page-history{
+      height: 25rem;
+    }
+    .page-banner, .page-tab .tab-content-container {
+      height: 30rem;
+  }
+  }
