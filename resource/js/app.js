@@ -19,7 +19,6 @@ window.addEventListener("scroll", () => {
     }
  });
  
- 
  document.querySelectorAll('.nav-link').forEach(function (navLink) {
     navLink.addEventListener('click', function (event) {
        event.preventDefault();
@@ -69,7 +68,6 @@ window.addEventListener("scroll", () => {
     });
  });
  
-
  // tab js
  const mountain_1 = document.getElementById('mountain-1');
  const mountain_2 = document.getElementById('mountain-2');
