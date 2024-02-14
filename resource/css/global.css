@@ -33,39 +33,8 @@ body {
     --light-text: #fefeff;
     --midnight-blue:#414f6b;
     --dark: #000000;
-    --grayish-blue:#b0b4be;
     --white: #ffffff;
-  
-    /* Gaps */
-    --gap-xl: 2rem;
-    --gap-3xs: 1rem;
-    --gap-sm: 1.4rem;
-    --gap-7xs: .6rem;
-    --gap-11xs: .2rem;
-    --gap-0: 0px;
-    --gap-9xs: .4rem;
-  
-    /* Paddings */
-    --padding-xs: 1.2rem;
-    --padding-11xl: 3rem;
-    --padding-xl: 2rem;
-    --padding-2xs: 1.1rem;
-    --padding-base: 1.6rem;
-    --padding-11xs: .2rem;
-    --padding-7xs: .6rem;
-    --padding-6xs: .7rem;
-    --padding-sm: 1.4rem;
-    --padding-8xs: .5rem;
-    --padding-5xs: .8rem;
-    --padding-3xs: 1rem;
-    --padding-smi: 1.3rem;
-    --padding-mid: 1.7rem;
-  
-    /* Border radiuses */
-    --br-7xs: .6rem;
-    --br-3xs: 1rem;
-    --br-smi: 1.3rem;
-    --br-9xs: .4rem;
+
   }
   
 /* Common CSS classes start */
